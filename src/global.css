@@ -1,0 +1,24 @@
+:root {
+    --purple-100: #D9CDF7;
+    --purple-200: #c9bbed;
+    --purple-500: #271A45;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: var(--purple-100);
+    width: 100%;
+}
+
+.lato {
+    font-family: 'Lato', sans-serif;
+}
+
+.crimson {
+    font-family: 'Crimson Pro', serif;
+}
